@@ -50,8 +50,8 @@ def search_by_name(contacts):
     print('not found')
 
 
-def all_contact(contacts):
-    print(f'all_contact: {contacts}')
+def all_contacts(contacts):
+    print(f'all_contacts: {contacts}')
 
 
 def edit_contact(contacts):

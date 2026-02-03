@@ -22,7 +22,7 @@ def main():
             case 1:
                 add_contact(contacts)
             case 2:
-                all_contact(contacts)
+                all_contacts(contacts)
             case 3:
                 search_by_name(contacts)
             case 4:
